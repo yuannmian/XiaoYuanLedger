@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand">#1F6B5C</color>
+    <color name="brand_dark">#164C42</color>
+    <color name="surface">#F6F8F7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_primary">#17211E</color>
+    <color name="text_secondary">#66736F</color>
+    <color name="income">#168A63</color>
+    <color name="expense">#C84A4A</color>
+</resources>
